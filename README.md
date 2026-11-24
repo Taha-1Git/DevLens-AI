@@ -76,3 +76,7 @@ devlens-ai/
 - Model is set to `claude-haiku-4-5-20251001` in `backend/main.py` — fast and cheap. Change to `claude-sonnet-4-6` for higher quality answers if you don't mind slightly higher cost.
 - GitHub loading is capped at 80 files and skips `node_modules`, `.git`, `dist`, `build`, etc.
 - Indexing/chunking happens entirely in the browser — only relevant chunks are sent to your backend.
+
+---
+
+Author: **Muhammad Taha** ([@Taha-1Git](https://github.com/Taha-1Git))
